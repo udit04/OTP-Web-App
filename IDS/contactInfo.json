@@ -1,0 +1,62 @@
+[
+  {
+    "firstName": "Udit",
+    "id": 0,
+    "lastName": "Agrawal",
+    "mobile": 8800947960,
+    "status": 1,
+    "time": "2017-05-24T09:58:23.5203623+05:30",
+    "OTP": "12345678",
+    "verified": "Yes"
+  },
+  {
+    "firstName": "UD",
+    "id": 1,
+    "lastName": "Man",
+    "mobile": 8989133621,
+    "status": 1,
+    "time": "2017-05-23T16:49:00.8750544+05:30",
+    "OTP": "567890",
+    "verified": "Yes"
+  },
+  {
+    "firstName": "Sujit",
+    "id": 2,
+    "lastName": "Singh",
+    "mobile": 9555400361,
+    "status": 0,
+    "time": "",
+    "OTP": "",
+    "verified": "Yes"
+  },
+  {
+    "firstName": "Shubhankar",
+    "id": 3,
+    "lastName": "Jain",
+    "mobile": 8130488288,
+    "status": 1,
+    "time": "2017-05-24T06:54:55.1965033+05:30",
+    "OTP": "789012",
+    "verified": "Yes"
+  },
+  {
+    "firstName": "Yugal",
+    "id": 4,
+    "lastName": "Jain",
+    "mobile": 9873492123,
+    "status": 0,
+    "time": "",
+    "OTP": "",
+    "verified": "Yes"
+  },
+  {
+    "firstName": "Nitin",
+    "id": 5,
+    "lastName": "Agrawal",
+    "mobile": 9407205838,
+    "status": 0,
+    "time": "",
+    "OTP": "",
+    "verified": "No"
+  }
+]
