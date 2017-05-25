@@ -16,3 +16,5 @@ The app lets you send OTP (through SMS) to the contacts list on the mian page.
 # HOW TO RUN ?
 
   To run this project, you need to clone the whole repository and open the .sln file with visual studio and HIT run button. (Check your framework config in web.config file ).
+
+  DEMO - http://www.coupontodeals.net/sms.aspx
